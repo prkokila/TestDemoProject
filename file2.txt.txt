@@ -1,2 +1,1 @@
 file2  is added
-file2 is modified
